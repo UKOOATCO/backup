@@ -2,6 +2,7 @@ mama myla ramu
 rama mula mamu
 papa myla popu
 popa myla jopu
+<<<<<<< HEAD
 branching and merge
 non fastfwd
 <<<<<<< HEAD
@@ -9,3 +10,6 @@ conflict solve
 =======
 conflict in the branch
 >>>>>>> branch
+=======
+lupa za pupu
+>>>>>>> 1d45c1743bacb9e60a714976740a9d65676e8eb5
