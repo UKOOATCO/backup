@@ -4,4 +4,8 @@ papa myla popu
 popa myla jopu
 branching and merge
 non fastfwd
+<<<<<<< HEAD
 conflict solve
+=======
+conflict in the branch
+>>>>>>> branch
