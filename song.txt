@@ -3,3 +3,4 @@ rama mula mamu
 papa myla popu
 popa myla jopu
 branching and merge
+non fastfwd
